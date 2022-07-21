@@ -2,9 +2,20 @@
 
 <!--
 **Harshil-159/Harshil-159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
+--!>
+### Hey there, 
 
+### I am Harshil Modi
+
+- 🌱 I'm currently Persuing MSc.(IT)
+- 💬 perviously worked on some ERP projects
+- 🔭 currently working(learning) on some projects
+- 🔆 I love to learn and contribute in any and every possible way.
+
+
+
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -26,8 +37,3 @@ some of the major technologies that I have worked on in the past:
 - Framework:  Express,METEOR,Vue,Angular
 - Tools: VS Code,PhpMyAdmin,Ubuntu,PgAdmin
 
-
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Angular][Angular.io]][Angular-url]
