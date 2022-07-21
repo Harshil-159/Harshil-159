@@ -51,7 +51,6 @@ some of the major technologies that I have worked on in the past:
   <img align="left" alt="" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
 
-
-
-
-  <img align="left" alt="" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+<a href = "mailto:harshilmodi462@gmail.com?subject = Feedback&body = Message">
+ <img align="left" alt="" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+</a>
