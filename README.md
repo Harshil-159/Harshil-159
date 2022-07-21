@@ -35,3 +35,16 @@ some of the major technologies that I have worked on in the past:
 - Framework:  Express, METEOR, Vue, Angular
 - Tools: VS Code, PhpMyAdmin, PgAdmin
 
+
+
+<a href="www.linkedin.com/in/harshil-modi-b41851219/">
+  <img align="left" alt="Tanya's Linkedin" width="22px" src="https://github.com/tanyajagyasi/TanyaJagyasi/blob/main/svgs/linkedin-icon-svgrepo-com.svg" />
+</a>
+<a href=https://github.com/Harshil-159>
+  <img align="left" alt="Tanya's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.instagram.com/harshil_159/">
+  <img align="left" alt="Tanya's Instagram" width="22px" src="https://github.com/tanyajagyasi/TanyaJagyasi/blob/main/svgs/instagram-2016-logo-svgrepo-com.svg" />
+</a>
+
+
