@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 ### I am Harshil Modi
 
-- 🌱 I'm currently Persuing MSc.(IT)
+- 🌱 I'm currently Persuing MSc.(IT)<br>
 - 💬 perviously worked on some ERP projects
 - 🔭 currently working(learning) on some projects
 - 🔆 I love to learn and contribute in any and every possible way.
