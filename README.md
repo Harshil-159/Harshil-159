@@ -7,10 +7,10 @@ Here are some ideas to get you started:
 ### Hey there, 
 
 ### I am Harshil Modi
-
+<br>
 - 🌱 I'm currently Persuing MSc.(IT)<br>
-- 💬 perviously worked on some ERP projects
-- 🔭 currently working(learning) on some projects
+- 💬 perviously worked on some ERP projects<br>
+- 🔭 currently working(learning) on some projects<br>
 - 🔆 I love to learn and contribute in any and every possible way.
 
 
