@@ -37,7 +37,7 @@ some of the major technologies that I have worked on in the past:
 
 
 
-<a href="www.linkedin.com/in/harshil-modi-b41851219/">
+<a href="https://www.linkedin.com/in/harshil-modi-b41851219/">
   <img align="left" alt="Tanya's Linkedin" width="22px" src="https://github.com/tanyajagyasi/TanyaJagyasi/blob/main/svgs/linkedin-icon-svgrepo-com.svg" />
 </a>
 <a href=https://github.com/Harshil-159>
