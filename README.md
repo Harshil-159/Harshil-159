@@ -4,7 +4,7 @@
 **Harshil-159/Harshil-159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 --!>
-### I am Harshil Modi
+I am Harshil Modi
 <br>
 - 🌱 I'm currently Persuing MSc.(IT)<br>
 - 💬 perviously worked on some ERP projects<br>
