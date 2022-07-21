@@ -47,7 +47,7 @@ some of the major technologies that I have worked on in the past:
   <img align="left" alt="Tanya's Instagram" width="22px" src="https://github.com/tanyajagyasi/TanyaJagyasi/blob/main/svgs/instagram-2016-logo-svgrepo-com.svg" />
 </a>
 
-<a href="https://mail.google.com/mail/u/0/?pli=1#inbox?compose=GTvVlcSMTtQKBVnFpdFGnsswhtMxjbFLhntqwrdRXJqqzSJQgrvcMwRWCdvqHdwchPNgwBpwRPHxB">
+<a href = "mailto:harshilmodi462@gmail.com?subject = Feedback&body = Message">
   <img align="left" alt="Tanya's Instagram" width="22px" src="https://github.com/tanyajagyasi/TanyaJagyasi/blob/main/svgs/instagram-2016-logo-svgrepo-com.svg" />
 </a>
 
