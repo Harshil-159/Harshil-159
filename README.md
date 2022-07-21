@@ -47,8 +47,11 @@ some of the major technologies that I have worked on in the past:
   <img align="left" alt="Tanya's Instagram" width="22px" src="https://github.com/tanyajagyasi/TanyaJagyasi/blob/main/svgs/instagram-2016-logo-svgrepo-com.svg" />
 </a>
 
-<a>
-<form action="harshilmodi462@gmail.com ? Cc=harshilmodi462@gmail.com">
-   <img align="left" alt="" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
-</form>
+<a href = "mailto:?subject = Feeharshilmopdi462@gmail.comdback&body = Message">
+  <img align="left" alt="" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
+
+
+
+
+  <img align="left" alt="" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
