@@ -48,7 +48,7 @@ some of the major technologies that I have worked on in the past:
 </a>
 
 <a href = "mailto:harshilmodi462@gmail.com?subject = Feedback&body = Message">
-  <img align="left" alt="" width="22px" src="file:///C:/Users/HARSHIL%20MODI/OneDrive/Desktop/react%20js/off%20campus/resume/MilindModi-main/svgs/google-gmail-svgrepo-com.svg" />
+  <img align="left" alt="" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
 
 
