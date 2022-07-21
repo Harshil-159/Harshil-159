@@ -1,11 +1,9 @@
-### Hi there 👋
+### Hey there 👋
 
 <!--
 **Harshil-159/Harshil-159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 --!>
-### Hey there, 
-
 ### I am Harshil Modi
 <br>
 - 🌱 I'm currently Persuing MSc.(IT)<br>
