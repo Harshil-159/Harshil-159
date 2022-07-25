@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I'm currently Persuing MSc.(IT)<br>
 - 💬 perviously worked on some ERP projects<br>
 - 🔭 currently working(learning) on some projects<br>
-- 🔆 I love to learn and contribute in any and every possible way.
+- 🔆 I like to learn and contribute in any and every possible way.
 
 
 
