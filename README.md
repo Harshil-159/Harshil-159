@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <h2> Skills </h2>
 some of the major technologies that I have worked on :
 
-- javascript, Java, C, C++, SQL
+- JavaScript, Java, C, C++, SQL
 - Html, CSS, Xml, AngularjS, Reactjs, Nodejs,Expressjs.
 - Databases: MySql, Postgresql, MongoDB
 - Framework:  Express, METEOR, Vue, Angular
