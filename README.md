@@ -38,7 +38,7 @@ some of the major technologies that I have worked on :
 
 
 <h2> Contact me at :</h2>
-<a href="https://www.linkedin.com/in/harshil-modi-b41851219/">LinkedIn</a> |<a href= "mailto:harshilmodi462@gmail.com">harshilmodi462@gmail.com </a>
+<a href="https://www.linkedin.com/in/harshil-modi-b41851219/">LinkedIn</a> |  <a href= "mailto:harshilmodi462@gmail.com">harshilmodi462@gmail.com </a>
 
 
 <br><br>
